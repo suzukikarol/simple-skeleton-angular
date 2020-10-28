@@ -1,0 +1,25 @@
+<div class="card">
+  <div class="card-head">
+    <app-seleton-loader *ngIf="!loaded" width="100" height="100" circle="true"></app-seleton-loader>
+    <img *ngIf="loaded"
+      src="https://st4.depositphotos.com/8440746/41399/v/1600/depositphotos_413993436-stock-illustration-outsourcing-icon-vector-person-laptop.jpg"
+      alt="profile">
+    <div class="info">
+      <app-seleton-loader *ngIf="!loaded" width="100"></app-seleton-loader>
+      <div *ngIf="loaded" class="name">Lorem Ispum</div>
+      <app-seleton-loader *ngIf="!loaded" width="150"></app-seleton-loader>
+      <div *ngIf="loaded" class="desc">Lorem ipsum ipsum</div>
+    </div>
+  </div>
+  <div class="card-about">
+    <app-seleton-loader *ngIf="!loaded" width="100"></app-seleton-loader>
+    <strong *ngIf="loaded" class="about">About</strong>
+    <app-seleton-loader *ngIf="!loaded" width="270" height="70"></app-seleton-loader>
+    <div *ngIf="loaded">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+      labore et dolore
+      magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+  </div>
+</div>
