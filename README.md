@@ -1,8 +1,8 @@
 # ExemploEskeletonAngular
 
-!(https://github.com/suzukikarol/simple-skeleton-angular/blob/master/Capturar.jpg?raw=true)
+![simple-skeleton-angular](https://github.com/suzukikarol/simple-skeleton-angular/raw/master/Capturar.jpg?raw=true)
 
-!(https://github.com/suzukikarol/simple-skeleton-angular/blob/master/Capturar1.jpg?raw=true)
+![simple-skeleton-angular](https://github.com/suzukikarol/simple-skeleton-angular/raw/path/to/Capturar1.jpg?raw=true)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
